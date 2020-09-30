@@ -9,3 +9,5 @@ def batch_badge_creator(attendees)
    attendees.each {|i| arr << "Hello, my name is #{i}."}
  return arr
 end
+
+def assign_rooms

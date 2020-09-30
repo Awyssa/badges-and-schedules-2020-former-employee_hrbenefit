@@ -5,4 +5,4 @@ end
 
 
 name = ['a', 'b']
-badge_maker("mike")
+badge_maker(name)

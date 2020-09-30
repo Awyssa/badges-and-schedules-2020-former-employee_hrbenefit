@@ -7,5 +7,5 @@ def batch_badge_creator(attendees)
   attendees.each do |i|
     arr << i
     return "Hello, my name is #{i}."
-  endx
+  end
 end

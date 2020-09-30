@@ -1,4 +1,4 @@
-def conference_badges(name)
+def badge_maker(name)
   name.each do |x|
     puts "Hello, my name is #{x}"
   end

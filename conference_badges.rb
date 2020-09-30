@@ -4,4 +4,5 @@ def badge_maker(name)
 end
 
 
+name = ['a', 'b']
 badge_maker("mike")

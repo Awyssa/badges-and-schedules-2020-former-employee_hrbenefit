@@ -4,4 +4,4 @@ def conference_badges(name)
   end
 end
 
-conference_badges(name)
+conference_badges("Edsger", "Ada", "Charles")

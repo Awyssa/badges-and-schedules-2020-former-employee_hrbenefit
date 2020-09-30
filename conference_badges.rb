@@ -1,6 +1,6 @@
 
-def badge_maker(name)
-  name.each {|x| "Hello, my name is #{x}"}
+def badge_maker(names)
+  names.each {|x| "Hello, my name is #{x}"}
 end
 
 

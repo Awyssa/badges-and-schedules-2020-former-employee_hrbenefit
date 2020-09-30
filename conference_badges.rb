@@ -4,4 +4,6 @@ def conference_badges(names)
   end
 end
 
+names = ["a", "b", "c", "d"]
+
 conference_badges("Edsger")

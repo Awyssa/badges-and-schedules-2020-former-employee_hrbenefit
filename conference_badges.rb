@@ -6,4 +6,4 @@ end
 
 names = ["a", "b", "c", "d"]
 
-conference_badges("Edsger")
+conference_badges(names)
